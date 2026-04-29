@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="622f9ae7-e0d5-4297-bcbd-bfd80cd53f2a" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../02_java核心语法/01_笔记/01_基础语法/00_目录总览/java语法目录.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02_java核心语法/01_笔记/01_基础语法/00_目录总览/java语法目录.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_java核心语法/01_笔记/02_数组的静态初始化.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_java核心语法/01_笔记/03_数组/00_目录总览/数组目录.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02_java核心语法/01_笔记/03_数组/00_目录总览/数组目录.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_java核心语法/01_笔记/03_数组/01_初识数组.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02_java核心语法/01_笔记/03_数组/01_初识数组.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_java核心语法/01_笔记/03_数组元素的访问.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_java核心语法/01_笔记/04_遍历数组.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_java核心语法/01_笔记/05_数组的动态初始化.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_java核心语法/01_笔记/二维数组.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_java核心语法/01_笔记/数组.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_java核心语法/01_笔记/方法.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_java核心语法/01_笔记/永久代.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="3ASb2ZK2rgeYhgDqDszCNh01wfW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortKey" value="BY_TIME_ASCENDING" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/个人知识体系/编程开发/02_后端/01_java基础/黑马 java/代码实例/java_method",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/个人知识体系/编程开发/后端/黑马 java/代码实例/java_method/src/Main.java",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.乘法口诀.executor": "Run",
+    "应用程序.去除重复_方法.executor": "Run",
+    "应用程序.方法.executor": "Run",
+    "应用程序.比较长方形周长.executor": "Run",
+    "应用程序.计算快递费用.executor": "Run",
+    "应用程序.计算班级分数.executor": "Run",
+    "应用程序.评委评分.executor": "Coverage",
+    "应用程序.遍历数组_方法.executor": "Run"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="622f9ae7-e0d5-4297-bcbd-bfd80cd53f2a" name="更改" comment="" />
+      <created>1772588717968</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772588717968</updated>
+      <workItem from="1772588719745" duration="1801000" />
+      <workItem from="1772591707017" duration="3798000" />
+      <workItem from="1772595991708" duration="370000" />
+      <workItem from="1772605926848" duration="12495000" />
+      <workItem from="1772627922044" duration="1237000" />
+      <workItem from="1773647405123" duration="13000" />
+      <workItem from="1774686378381" duration="758000" />
+      <workItem from="1775634874717" duration="196000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../../../../.." />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/java_method$.ic" NAME="评委评分 覆盖结果" MODIFIED="1772629127058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>课外作业.*</FILTER>
+    </SUITE>
+  </component>
+</project>

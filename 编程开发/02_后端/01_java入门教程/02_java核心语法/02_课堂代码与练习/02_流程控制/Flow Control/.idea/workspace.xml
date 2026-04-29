@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="27a16f68-3ee7-40c4-be0c-a277a3b2cbe4" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../../.." />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="3Bt6Kjn8qpzpgTQLRIAXRkJaFpD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/个人知识体系/编程开发/02_后端/01_java入门教程/02_java核心语法/02_课堂代码与练习/02_流程控制/Flow Control",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.CapacityForLiquor.executor": "Run",
+    "应用程序.ch01_break.executor": "Run",
+    "应用程序.ch01_do_while.executor": "Run",
+    "应用程序.ch01_三角形.executor": "Run",
+    "应用程序.ch01_复利计算器.executor": "Run",
+    "应用程序.ch01_循环嵌套.executor": "Run",
+    "应用程序.ch01_游戏人物血条.executor": "Run",
+    "应用程序.ch01_考试成绩.executor": "Run",
+    "应用程序.ch01_连续跳跃.executor": "Run",
+    "应用程序.ch01_逢七过.executor": "Run",
+    "应用程序.ch01吃饭.executor": "Run",
+    "应用程序.ch01考试奖励.executor": "Run",
+    "应用程序.ch01运动计划.executor": "Run",
+    "应用程序.ch02_case穿透_月份季节.executor": "Run",
+    "应用程序.ch02_continue.executor": "Run",
+    "应用程序.ch02_default的位置和省略.executor": "Run",
+    "应用程序.ch02_平行四边形.executor": "Run",
+    "应用程序.ch02_平行四边形_简单解法.executor": "Run",
+    "应用程序.ch02_找质数.executor": "Run",
+    "应用程序.ch02_折叠纸张.executor": "Run",
+    "应用程序.ch02_正反输出数字.executor": "Run",
+    "应用程序.ch02优惠券.executor": "Run",
+    "应用程序.ch02自动驾驶.executor": "Run",
+    "应用程序.ch03_case穿透.executor": "Run",
+    "应用程序.ch03_位数之和.executor": "Run",
+    "应用程序.ch03_梯形.executor": "Run",
+    "应用程序.ch03_求和.executor": "Run",
+    "应用程序.ch03_猜随机数.executor": "Run",
+    "应用程序.ch03优惠卷_少付钱解法.executor": "Run",
+    "应用程序.ch03影院选座.executor": "Run",
+    "应用程序.ch04_switch新特性.executor": "Run",
+    "应用程序.ch04_充卡赠送.executor": "Run",
+    "应用程序.ch04_求偶数.executor": "Run",
+    "应用程序.ch04_菱形.executor": "Run",
+    "应用程序.ch05_空心菱形.executor": "Run",
+    "应用程序.ch05_空心菱形_标准解法.executor": "Run",
+    "应用程序.ch05_统计满足条件的数字.executor": "Run",
+    "应用程序.ch05计算BMI.executor": "Run",
+    "应用程序.ch06_打印99乘法表.executor": "Run",
+    "应用程序.ch06_数字规律.executor": "Run",
+    "应用程序.ch06阶梯电费.executor": "Run",
+    "应用程序.ch07_制表符补充.executor": "Run",
+    "应用程序.ch07_数列之和.executor": "Run",
+    "应用程序.ch08直角坐标系判断.executor": "Run",
+    "应用程序.order.executor": "Run",
+    "应用程序.分数奖励.executor": "Run",
+    "应用程序.商品付款.executor": "Run",
+    "应用程序.无限循环.executor": "Run",
+    "应用程序.注意事项.executor": "Run",
+    "应用程序.考试奖励.executor": "Run"
+  }
+}]]></component>
+  <component name="RunManager" selected="应用程序.ch07_制表符补充">
+    <configuration name="ch01_三角形" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="课堂练习.ch04_循环高级用法.ch03_循环嵌套.ch01_三角形" />
+      <module name="Flow Control" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="课堂练习.ch04_循环高级用法.ch03_循环嵌套.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch01_考试成绩" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="课堂代码.ch02_分支结构.ch02_双分支.ch01_考试成绩" />
+      <module name="Flow Control" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="课堂代码.ch02_分支结构.ch02_双分支.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch04_菱形" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="课堂练习.ch04_循环高级用法.ch03_循环嵌套.ch04_菱形" />
+      <module name="Flow Control" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="课堂练习.ch04_循环高级用法.ch03_循环嵌套.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch05_空心菱形" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="课堂练习.ch04_循环高级用法.ch03_循环嵌套.ch05_空心菱形" />
+      <module name="Flow Control" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="课堂练习.ch04_循环高级用法.ch03_循环嵌套.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch05_空心菱形_标准解法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="课堂练习.ch04_循环高级用法.ch03_循环嵌套.ch05_空心菱形_标准解法" />
+      <module name="Flow Control" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="课堂练习.ch04_循环高级用法.ch03_循环嵌套.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch06_打印99乘法表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="课堂练习.ch04_循环高级用法.ch03_循环嵌套.ch06_打印99乘法表" />
+      <module name="Flow Control" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="课堂练习.ch04_循环高级用法.ch03_循环嵌套.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch07_制表符补充" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="课堂练习.ch04_循环高级用法.ch03_循环嵌套.ch07_制表符补充" />
+      <module name="Flow Control" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="课堂练习.ch04_循环高级用法.ch03_循环嵌套.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.ch07_制表符补充" />
+        <item itemvalue="应用程序.ch06_打印99乘法表" />
+        <item itemvalue="应用程序.ch05_空心菱形_标准解法" />
+        <item itemvalue="应用程序.ch05_空心菱形" />
+        <item itemvalue="应用程序.ch04_菱形" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="27a16f68-3ee7-40c4-be0c-a277a3b2cbe4" name="更改" comment="" />
+      <created>1775295960504</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1775295960504</updated>
+      <workItem from="1775295965828" duration="169000" />
+      <workItem from="1775296365194" duration="1636000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

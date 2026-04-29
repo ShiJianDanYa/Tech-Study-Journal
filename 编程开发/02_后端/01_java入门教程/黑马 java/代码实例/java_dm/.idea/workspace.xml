@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fee29496-c8ac-46aa-9130-90676071ade3" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../02_java核心语法/01_笔记/01_基础语法/00_目录总览/java基础语法目录.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02_java核心语法/01_笔记/01_基础语法/00_目录总览/java基础语法目录.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_java核心语法/01_笔记/02_流程控制/00_目录总览/流程控制.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02_java核心语法/01_笔记/02_流程控制/00_目录总览/流程控制.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_java核心语法/01_笔记/13——java三码.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_java核心语法/01_笔记/14_原码.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_java核心语法/01_笔记/15_反码.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_java核心语法/01_笔记/if第一种形式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_java核心语法/01_笔记/if第三种形式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_java核心语法/01_笔记/if第二种形式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_java核心语法/01_笔记/判断语句.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_java核心语法/01_笔记/流程控制.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02_java核心语法/01_笔记/流程控制.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_java核心语法/01_笔记/补码.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itheima/test/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../附件存储/01_截图/01_java截图/02_java核心语法/01_java基础语法/13_java三码/02_反码/三码_反码_2026-04-03_20-57-09.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2uqSjmcrxlBXVQRfYx1lME2dqIg" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortKey" value="BY_TIME_DESCENDING" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/个人知识体系/编程开发/02_后端/01_java基础/黑马 java/代码实例/java_dm&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/个人知识体系/知识管理/Obsidian/笔记软件/后端学习/黑马java/黑马 Java 代码/java_dm/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;应用程序.HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Main.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Qomolangma18.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Sum_of_an_rray25.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.auto.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.casesy.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.change.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.cinema11.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.compare.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.data_type.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.day14.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.disorganize.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.division20.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.doswitch语句.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.dynamic_condition4.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.eat13.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.ergodic03.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.even16.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.exchange.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.figure15.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.gjc01.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.guess_number24.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.indexes02.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.jbvi.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.ksvi.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.logic.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.max08.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.maximum.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.palindromic19.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.payment10.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.prime_number23.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.qh.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.resolution04.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.seven21.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.sign.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.sjlx02.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.square_root22.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.summation03.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.switch14.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.switch表达式.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.system_initialization01.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.sz06.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.teacher02.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.test_score12.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.traffic09.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.two_tigers07.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.type_in.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.variate.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.while17.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.xhqt.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.yuehui05.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.zifu.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.流程_循环_回文数19.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.运算_算数_求位数04.executor&quot;: &quot;Run&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\个人知识体系\知识管理\全栈学习\后端学习\黑马 java\java基础\黑马 Java 代码\java_dm\src\练习\流程\循环\回文数" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="课堂.键盘录入" />
+      <recent name="课堂" />
+      <recent name="课堂.数组" />
+      <recent name="数组" />
+      <recent name="课堂.hello" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.zifu">
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.test.HelloWorld" />
+      <module name="java_dm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="disorganize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="练习.数组.打乱数组06.disorganize" />
+      <module name="java_dm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="练习.数组.打乱数组06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="qh" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="练习.数组.平均求和统计04.qh" />
+      <module name="java_dm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="练习.数组.平均求和统计04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sign" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="课堂.运算符.算术运算.sign" />
+      <module name="java_dm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="课堂.运算符.算术运算.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zifu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="实验.zifu" />
+      <module name="java_dm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="实验.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.zifu" />
+        <item itemvalue="应用程序.sign" />
+        <item itemvalue="应用程序.disorganize" />
+        <item itemvalue="应用程序.HelloWorld" />
+        <item itemvalue="应用程序.qh" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="fee29496-c8ac-46aa-9130-90676071ade3" name="更改" comment="" />
+      <created>1742974753308</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742974753308</updated>
+      <workItem from="1742974754764" duration="4811000" />
+      <workItem from="1742988805773" duration="360000" />
+      <workItem from="1742994651775" duration="212000" />
+      <workItem from="1742994995785" duration="600000" />
+      <workItem from="1743038564401" duration="7331000" />
+      <workItem from="1743068000380" duration="1241000" />
+      <workItem from="1743069265554" duration="5717000" />
+      <workItem from="1743084521753" duration="3708000" />
+      <workItem from="1743122550285" duration="1598000" />
+      <workItem from="1743131430711" duration="3008000" />
+      <workItem from="1743144142342" duration="2663000" />
+      <workItem from="1743215866379" duration="2097000" />
+      <workItem from="1743225296807" duration="719000" />
+      <workItem from="1743226464551" duration="981000" />
+      <workItem from="1743227473487" duration="16969000" />
+      <workItem from="1743316828148" duration="23000" />
+      <workItem from="1743318012446" duration="72000" />
+      <workItem from="1743341987243" duration="596000" />
+      <workItem from="1743388702913" duration="1184000" />
+      <workItem from="1743391305625" duration="2199000" />
+      <workItem from="1743405286823" duration="5299000" />
+      <workItem from="1743420301089" duration="8161000" />
+      <workItem from="1743435257942" duration="1724000" />
+      <workItem from="1743468171191" duration="1246000" />
+      <workItem from="1744451528791" duration="13000" />
+      <workItem from="1744451646711" duration="396000" />
+      <workItem from="1744463514217" duration="5929000" />
+      <workItem from="1745320545557" duration="3086000" />
+      <workItem from="1745325492983" duration="7406000" />
+      <workItem from="1761448076766" duration="837000" />
+      <workItem from="1761532969946" duration="3666000" />
+      <workItem from="1761632382449" duration="9000" />
+      <workItem from="1761637036194" duration="67000" />
+      <workItem from="1761637587266" duration="114000" />
+      <workItem from="1761705759762" duration="2612000" />
+      <workItem from="1761737255385" duration="30000" />
+      <workItem from="1761814347168" duration="32000" />
+      <workItem from="1761818662598" duration="11000" />
+      <workItem from="1761886310469" duration="68000" />
+      <workItem from="1761977771574" duration="57000" />
+      <workItem from="1762040625556" duration="25000" />
+      <workItem from="1762178441926" duration="70000" />
+      <workItem from="1762506734671" duration="230000" />
+      <workItem from="1762783042878" duration="658000" />
+      <workItem from="1762783746827" duration="9000" />
+      <workItem from="1763111458670" duration="11000" />
+      <workItem from="1766905013154" duration="3890000" />
+      <workItem from="1766973392399" duration="100000" />
+      <workItem from="1766983063448" duration="6650000" />
+      <workItem from="1767148254176" duration="975000" />
+      <workItem from="1767338979333" duration="1748000" />
+      <workItem from="1767354840445" duration="3086000" />
+      <workItem from="1770790020152" duration="1425000" />
+      <workItem from="1771378051477" duration="283000" />
+      <workItem from="1771570177386" duration="81000" />
+      <workItem from="1771570299236" duration="2115000" />
+      <workItem from="1772184727753" duration="162000" />
+      <workItem from="1772184932868" duration="1935000" />
+      <workItem from="1772351752515" duration="4064000" />
+      <workItem from="1773647462480" duration="324000" />
+      <workItem from="1773647891905" duration="1270000" />
+      <workItem from="1773663657201" duration="2511000" />
+      <workItem from="1774951318265" duration="755000" />
+      <workItem from="1775005622375" duration="3016000" />
+      <workItem from="1775024450457" duration="4683000" />
+      <workItem from="1775120126055" duration="4834000" />
+      <workItem from="1775197586402" duration="5388000" />
+      <workItem from="1775259331496" duration="173000" />
+      <workItem from="1775259622959" duration="10000" />
+      <workItem from="1775295688799" duration="172000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../../../../.." />
+    </ignored-roots>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
