@@ -8,5 +8,8 @@
   "anuppuccin-theme-settings@@anp-alt-tab-style": "anp-alternate-tab-toggle",
   "anuppuccin-theme-settings@@anp-layout-select": "anp-card-layout",
   "anuppuccin-theme-settings@@anp-alt-rainbow-style": "anp-simple-rainbow-color-toggle",
-  "anuppuccin-theme-settings@@anp-simple-rainbow-title-toggle": true
+  "anuppuccin-theme-settings@@anp-simple-rainbow-title-toggle": true,
+  "phycat-layout@@layout-style": "layout-cards",
+  "phycat-layout@@rainbow-folders": true,
+  "phycat-colors@@dark-color-scheme": "theme-dark-vampire"
 }

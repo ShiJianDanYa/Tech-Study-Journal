@@ -159,7 +159,7 @@
     "expandedKeys": []
   },
   "编程开发/02_后端/01_java入门教程/02_java核心语法/01_笔记/05_java原理/00_目录总览/java原理目录.md": {
-    "scroll": 23.202130559464244,
+    "scroll": 37.58403842586014,
     "cursor": {
       "from": {
         "line": 20,
@@ -175,21 +175,21 @@
     ]
   },
   "编程开发/02_后端/01_java入门教程/02_java核心语法/01_笔记/05_java原理/02_java中的内存管理.md": {
-    "scroll": 5.9002493765586035,
+    "scroll": 39.66746858582118,
     "cursor": {
       "from": {
-        "line": 13,
-        "ch": 0
+        "line": 45,
+        "ch": 16
       },
       "to": {
-        "line": 13,
-        "ch": 0
+        "line": 45,
+        "ch": 16
       }
     },
     "expandedKeys": [
       "item-1-1",
-      "item-2-3",
-      "item-3-4"
+      "item-3-4",
+      "item-2-3"
     ]
   },
   "2026-04-26.md": {
@@ -230,6 +230,36 @@
       "to": {
         "line": 55,
         "ch": 13
+      }
+    },
+    "expandedKeys": []
+  },
+  "编程开发/02_后端/01_java入门教程/02_java核心语法/01_笔记/05_java原理/03_变量和方法的内存分配.md": {
+    "scroll": 2.9714285714285715,
+    "cursor": {
+      "from": {
+        "line": 13,
+        "ch": 0
+      },
+      "to": {
+        "line": 13,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-1"
+    ]
+  },
+  "README.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
       }
     },
     "expandedKeys": []
