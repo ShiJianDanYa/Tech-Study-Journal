@@ -1,0 +1,10 @@
+# Obsidian 配置与缓存文件
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/backups
+.obsidian/plugins/obsidian-git/data.json
+.obsidian/history/
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
