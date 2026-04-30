@@ -405,7 +405,7 @@
     "expandedKeys": []
   },
   "模板/日记模板/Daily Note.md": {
-    "scroll": 12.658833547899526,
+    "scroll": 3.805223222618395,
     "cursor": {
       "from": {
         "line": 5,
@@ -470,6 +470,20 @@
       "to": {
         "line": 36,
         "ch": 23
+      }
+    },
+    "expandedKeys": []
+  },
+  "个人文件/煎人寿.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
       }
     },
     "expandedKeys": []
