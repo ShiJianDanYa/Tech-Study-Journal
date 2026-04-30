@@ -4,19 +4,19 @@
     "quickAddChoice": "Templater: User Script: create-diary"
   },
   "weekly": {
-    "useQuickAdd": false,
+    "useQuickAdd": true,
     "quickAddChoice": ""
   },
   "monthly": {
-    "useQuickAdd": false,
+    "useQuickAdd": true,
     "quickAddChoice": ""
   },
   "quarterly": {
-    "useQuickAdd": false,
+    "useQuickAdd": true,
     "quickAddChoice": ""
   },
   "yearly": {
-    "useQuickAdd": false,
+    "useQuickAdd": true,
     "quickAddChoice": ""
   },
   "appearance": {
