@@ -29,6 +29,10 @@
     {
       "folder": "编程开发/后端/黑马 java",
       "template": "Templates/笔记模板.md"
+    },
+    {
+      "folder": "日记/季度",
+      "template": "模板/日记模板/Quarterly Notes.md"
     }
   ],
   "enable_file_templates": false,

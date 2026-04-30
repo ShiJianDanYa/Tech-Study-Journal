@@ -3,10 +3,13 @@
 const config = { adcode: "", weather: "" };
 const meta = await tp.user.getDiaryMeta(tp, config);
 const quarter = Math.ceil((new Date().getMonth() + 1) / 3);
+tp.variables.set("quarter", quarter); // 挂载到全局变量
 %>
-tags: - 日记/季记
-title: "季记 · <% tp.date.now("YYYY年") %>第<% quarter %>季度"
-type: - 日记 - 季记
+tags: - #日记/季记
+title: "季记 · <% tp.date.now("YYYY年") %>第<% tp.variables.get("quarter") %>季度"
+type: 
+	- 日记 
+	- 季记
 季度: <% tp.date.now("YYYY年") %>第<% quarter %>季度
 创建时间: <% tp.file.creation_date("YYYY-MM-DD HH:mm:ss") %>
 修改时间: <% tp.file.last_modified_date("YYYY-MM-DD HH:mm:ss") %>
