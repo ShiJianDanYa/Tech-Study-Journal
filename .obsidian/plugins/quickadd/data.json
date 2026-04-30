@@ -1,5 +1,18 @@
 {
-  "choices": [],
+  "choices": [
+    {
+      "id": "8dc8a1a8-0708-4b54-8dd9-e619232fdec9",
+      "name": "create-diary",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "create-diary",
+        "id": "efb87c6f-e2e9-4ef2-8752-fe2e2095fa57",
+        "commands": []
+      }
+    }
+  ],
   "inputPrompt": "single-line",
   "persistInputPromptDrafts": true,
   "useSelectionAsCaptureValue": true,
