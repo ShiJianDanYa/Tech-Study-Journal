@@ -422,11 +422,25 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 3,
+        "line": 0,
+        "ch": 3
+      },
+      "to": {
+        "line": 0,
+        "ch": 3
+      }
+    },
+    "expandedKeys": []
+  },
+  "模板/日记模板/Quarterly Notes.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
         "ch": 0
       },
       "to": {
-        "line": 3,
+        "line": 0,
         "ch": 0
       }
     },
