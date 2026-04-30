@@ -1,6 +1,6 @@
 {
   "daily": {
-    "useQuickAdd": false,
+    "useQuickAdd": true,
     "quickAddChoice": ""
   },
   "weekly": {

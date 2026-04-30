@@ -207,7 +207,7 @@
     "expandedKeys": []
   },
   "日记/2026-04-29.md": {
-    "scroll": 27.49100553882766,
+    "scroll": 0.9698431569503213,
     "cursor": {
       "from": {
         "line": 21,
@@ -259,6 +259,90 @@
       },
       "to": {
         "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2026/04/2026-04-30.md": {
+    "scroll": 37.00686874242415,
+    "cursor": {
+      "from": {
+        "line": 30,
+        "ch": 27
+      },
+      "to": {
+        "line": 30,
+        "ch": 27
+      }
+    },
+    "expandedKeys": []
+  },
+  "日记/2026/04/2026-04-30.md": {
+    "scroll": 55.36735694574801,
+    "cursor": {
+      "from": {
+        "line": 38,
+        "ch": 0
+      },
+      "to": {
+        "line": 38,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "日记/2026-04-28.md": {
+    "scroll": 2.5331724969843186,
+    "cursor": {
+      "from": {
+        "line": 21,
+        "ch": 0
+      },
+      "to": {
+        "line": 21,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "日记/2026-04-27.md": {
+    "scroll": 38.546527936933906,
+    "cursor": {
+      "from": {
+        "line": 21,
+        "ch": 0
+      },
+      "to": {
+        "line": 21,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "日记/2026/03/11.md": {
+    "scroll": 22.792842985582176,
+    "cursor": {
+      "from": {
+        "line": 21,
+        "ch": 0
+      },
+      "to": {
+        "line": 21,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Templates/Daily Note.md": {
+    "scroll": 4.553834650013714,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 0
+      },
+      "to": {
+        "line": 9,
         "ch": 0
       }
     },
