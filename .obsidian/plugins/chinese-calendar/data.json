@@ -1,6 +1,6 @@
 {
   "daily": {
-    "useQuickAdd": true,
+    "useQuickAdd": false,
     "quickAddChoice": ""
   },
   "weekly": {
@@ -20,7 +20,7 @@
     "quickAddChoice": ""
   },
   "appearance": {
-    "useScale": false,
+    "useScale": true,
     "layout": "Small",
     "pastTimeTransparent": true
   }
