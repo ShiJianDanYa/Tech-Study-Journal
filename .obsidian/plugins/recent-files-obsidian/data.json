@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "java原理目录",
+      "path": "编程开发/02_后端/01_java入门教程/02_java核心语法/01_笔记/05_java原理/00_目录总览/java原理目录.md"
+    },
+    {
+      "basename": "2026-04-30",
+      "path": "日记/每日/2026-04-30.md"
+    },
+    {
+      "basename": "01_java运行机制",
+      "path": "编程开发/02_后端/01_java入门教程/02_java核心语法/01_笔记/05_java原理/01_java运行机制.md"
+    },
+    {
+      "basename": "Daily Note",
+      "path": "Templates/Daily Note.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "日记/每周/未命名.md"
+    },
+    {
+      "basename": "Weekly Notes",
+      "path": "模板/日记模板/Weekly Notes.md"
+    },
+    {
+      "basename": "2026-04-28",
+      "path": "日记/2026-04-28.md"
+    },
+    {
+      "basename": "2026-04-29",
+      "path": "日记/2026-04-29.md"
+    },
+    {
       "basename": "2024-11-24",
       "path": "日记/2024-11-24.md"
     },
@@ -25,24 +57,8 @@
       "path": "模板/日记模板/Yearly Notes.md"
     },
     {
-      "basename": "Weekly Notes",
-      "path": "模板/日记模板/Weekly Notes.md"
-    },
-    {
       "basename": "Monthly Notes",
       "path": "模板/日记模板/Monthly Notes.md"
-    },
-    {
-      "basename": "Daily Note",
-      "path": "Templates/Daily Note.md"
-    },
-    {
-      "basename": "2026-04-29",
-      "path": "日记/2026-04-29.md"
-    },
-    {
-      "basename": "2026-04-28",
-      "path": "日记/2026-04-28.md"
     },
     {
       "basename": "2026-04-27",
@@ -51,10 +67,6 @@
     {
       "basename": "02_java中的内存管理",
       "path": "编程开发/02_后端/01_java入门教程/02_java核心语法/01_笔记/05_java原理/02_java中的内存管理.md"
-    },
-    {
-      "basename": "java原理目录",
-      "path": "编程开发/02_后端/01_java入门教程/02_java核心语法/01_笔记/05_java原理/00_目录总览/java原理目录.md"
     }
   ],
   "omittedPaths": [],

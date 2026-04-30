@@ -19,8 +19,12 @@
       "template": "Templates/笔记模板.md"
     },
     {
-      "folder": "日记",
+      "folder": "日记/每日",
       "template": "Templates/Daily Note.md"
+    },
+    {
+      "folder": "日记/每周",
+      "template": "模板/日记模板/Weekly Notes.md"
     }
   ],
   "enable_file_templates": false,

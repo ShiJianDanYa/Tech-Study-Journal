@@ -159,7 +159,7 @@
     "expandedKeys": []
   },
   "编程开发/02_后端/01_java入门教程/02_java核心语法/01_笔记/05_java原理/00_目录总览/java原理目录.md": {
-    "scroll": 30.4963744781596,
+    "scroll": 33.602497442158175,
     "cursor": {
       "from": {
         "line": 20,
@@ -175,7 +175,7 @@
     ]
   },
   "编程开发/02_后端/01_java入门教程/02_java核心语法/01_笔记/05_java原理/02_java中的内存管理.md": {
-    "scroll": 35.15555496389496,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 45,
@@ -207,7 +207,7 @@
     "expandedKeys": []
   },
   "日记/2026-04-29.md": {
-    "scroll": 0.9698431569503213,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 21,
@@ -293,7 +293,7 @@
     "expandedKeys": []
   },
   "日记/2026-04-28.md": {
-    "scroll": 2.5331724969843186,
+    "scroll": 5.037394561583516,
     "cursor": {
       "from": {
         "line": 21,
@@ -335,18 +335,20 @@
     "expandedKeys": []
   },
   "Templates/Daily Note.md": {
-    "scroll": 43.16406644539195,
+    "scroll": 13.137149371384186,
     "cursor": {
       "from": {
-        "line": 10,
-        "ch": 5
+        "line": 26,
+        "ch": 0
       },
       "to": {
-        "line": 10,
-        "ch": 5
+        "line": 26,
+        "ch": 0
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-1-0"
+    ]
   },
   "模板/Daily Note.md": {
     "scroll": 0,
@@ -391,7 +393,7 @@
     "expandedKeys": []
   },
   "模板/日记模板/Weekly Notes.md": {
-    "scroll": 8.953428624757729,
+    "scroll": 11.207434136697756,
     "cursor": {
       "from": {
         "line": 1,
@@ -501,5 +503,67 @@
       }
     },
     "expandedKeys": []
+  },
+  "日记/每日/未命名.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 18,
+        "ch": 15
+      },
+      "to": {
+        "line": 18,
+        "ch": 25
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ]
+  },
+  "日记/每周/未命名.md": {
+    "scroll": 19.030812282188265,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 3
+      },
+      "to": {
+        "line": 0,
+        "ch": 3
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ]
+  },
+  "编程开发/02_后端/01_java入门教程/02_java核心语法/01_笔记/05_java原理/01_java运行机制.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 13,
+        "ch": 0
+      },
+      "to": {
+        "line": 13,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "日记/每日/2026-04-30.md": {
+    "scroll": 37.46156978276302,
+    "cursor": {
+      "from": {
+        "line": 18,
+        "ch": 0
+      },
+      "to": {
+        "line": 18,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ]
   }
 }
