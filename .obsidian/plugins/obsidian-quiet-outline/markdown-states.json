@@ -393,15 +393,15 @@
     "expandedKeys": []
   },
   "模板/日记模板/Weekly Notes.md": {
-    "scroll": 26.113639525697476,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 15,
-        "ch": 86
+        "line": 18,
+        "ch": 34
       },
       "to": {
-        "line": 15,
-        "ch": 86
+        "line": 18,
+        "ch": 34
       }
     },
     "expandedKeys": [
@@ -437,7 +437,7 @@
     "expandedKeys": []
   },
   "模板/日记模板/Quarterly Notes.md": {
-    "scroll": 16.13138195991955,
+    "scroll": 7.560777513037121,
     "cursor": {
       "from": {
         "line": 0,
@@ -523,15 +523,15 @@
     ]
   },
   "日记/每周/未命名.md": {
-    "scroll": 0.025934732086539448,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 15,
-        "ch": 2
+        "line": 0,
+        "ch": 0
       },
       "to": {
-        "line": 15,
-        "ch": 30
+        "line": 0,
+        "ch": 0
       }
     },
     "expandedKeys": [
