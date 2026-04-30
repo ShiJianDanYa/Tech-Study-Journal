@@ -82188,6 +82188,56 @@
           "Daily Note - 2026-04-30"
         ]
       }
+    },
+    "日记/每日/2026年-04月-30日.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 322,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.0733333333333333,
+      "characterCount": 1249,
+      "nonWhitespaceCharacterCount": 757,
+      "newlineCount": 49,
+      "readingTimeInMinutes": 0.6989811320754716,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "Daily Note - 2026-04-30"
+      ],
+      "createdDate": 1777560487236,
+      "modifiedDate": 1777560494158,
+      "sizeInBytes": 2318,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "tags": [
+          "日记"
+        ],
+        "title": "2026年-04月-30日",
+        "type": [
+          "日记"
+        ],
+        "date": "2026-04-30",
+        "创建时间": "2026-04-30 22:48:07",
+        "修改时间": "2026-04-30 22:48:07",
+        "农历": "三月十四",
+        "星期": "星期四",
+        "位置": "山东省肥城市安驾庄镇",
+        "☁️": "晴/多云, 10~24℃",
+        "作者": "简单",
+        "心情": "😄",
+        "aliases": [
+          "Daily Note - 2026-04-30"
+        ]
+      }
     }
   }
 }
