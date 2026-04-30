@@ -81962,6 +81962,33 @@
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
       }
+    },
+    "模板/日记模板/智能日记模板.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 224,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.7466666666666667,
+      "characterCount": 1414,
+      "nonWhitespaceCharacterCount": 1190,
+      "newlineCount": 53,
+      "readingTimeInMinutes": 0.6147169811320754,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1777537516451,
+      "modifiedDate": 1777537539332,
+      "sizeInBytes": 1676,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
     }
   }
 }

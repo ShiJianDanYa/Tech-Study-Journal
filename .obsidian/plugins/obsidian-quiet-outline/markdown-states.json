@@ -279,15 +279,15 @@
     "expandedKeys": []
   },
   "日记/2026/04/2026-04-30.md": {
-    "scroll": 55.36735694574801,
+    "scroll": 62.23029123974186,
     "cursor": {
       "from": {
-        "line": 38,
-        "ch": 0
+        "line": 27,
+        "ch": 6
       },
       "to": {
-        "line": 38,
-        "ch": 0
+        "line": 27,
+        "ch": 6
       }
     },
     "expandedKeys": []
@@ -484,6 +484,20 @@
       "to": {
         "line": 0,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "模板/日记模板/智能日记模板.md": {
+    "scroll": 42.43131647197504,
+    "cursor": {
+      "from": {
+        "line": 52,
+        "ch": 2
+      },
+      "to": {
+        "line": 52,
+        "ch": 2
       }
     },
     "expandedKeys": []

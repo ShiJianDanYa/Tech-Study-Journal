@@ -1,7 +1,7 @@
 {
   "daily": {
-    "useQuickAdd": false,
-    "quickAddChoice": ""
+    "useQuickAdd": true,
+    "quickAddChoice": "Templater: User Script: create-diary"
   },
   "weekly": {
     "useQuickAdd": false,
