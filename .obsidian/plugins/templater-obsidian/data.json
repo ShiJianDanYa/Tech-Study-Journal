@@ -15,20 +15,20 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "编程开发/后端/黑马 java",
-      "template": "Templates/笔记模板.md"
-    },
-    {
-      "folder": "日记/每日",
-      "template": "Templates/Daily Note.md"
+      "folder": "日记/每月",
+      "template": "模板/日记模板/Monthly Notes.md"
     },
     {
       "folder": "日记/每周",
       "template": "模板/日记模板/Weekly Notes.md"
     },
     {
-      "folder": "日记/每月",
-      "template": "模板/日记模板/Monthly Notes.md"
+      "folder": "日记/每日",
+      "template": "Templates/Daily Note.md"
+    },
+    {
+      "folder": "编程开发/后端/黑马 java",
+      "template": "Templates/笔记模板.md"
     }
   ],
   "enable_file_templates": false,

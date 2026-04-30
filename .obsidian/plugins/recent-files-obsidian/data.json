@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "日记/每周/未命名.md"
+    },
+    {
+      "basename": "2026-04-30",
+      "path": "日记/每日/2026-04-30.md"
+    },
+    {
       "basename": "2024-11-24",
       "path": "日记/2024-11-24.md"
     },
@@ -9,12 +17,12 @@
       "path": "模板/日记模板/Monthly Notes.md"
     },
     {
-      "basename": "Daily Note",
-      "path": "Templates/Daily Note.md"
-    },
-    {
       "basename": "Weekly Notes",
       "path": "模板/日记模板/Weekly Notes.md"
+    },
+    {
+      "basename": "Daily Note",
+      "path": "Templates/Daily Note.md"
     },
     {
       "basename": "02_java中的内存管理",
@@ -39,10 +47,6 @@
     {
       "basename": "锏單的奇思妙想",
       "path": "个人文件/锏單的奇思妙想.md"
-    },
-    {
-      "basename": "2026-04-30",
-      "path": "日记/每日/2026-04-30.md"
     },
     {
       "basename": "01_java运行机制",

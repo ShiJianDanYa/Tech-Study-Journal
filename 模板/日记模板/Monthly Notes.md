@@ -1,20 +1,25 @@
 ---
 <%*
-const config = {  
+const config = { 
 	adcode: "", 
 	weather: "" 
 };
 const meta = await tp.user.getDiaryMeta(tp, config);
 %>
-tags: - 日记/月记
+
+tags: 
+  - 日记/月记
 title: "月记 · <% tp.date.now("YYYY年MM月") %>"
-type: - 日记 - 月记
+type: 
+  - 日记
+  - 月记
 月份: <% tp.date.now("YYYY年MM月") %>
-创建时间: <% tp.file.creation_date("YYYY-MM-DD HH:mm:ss") %>
-修改时间: <% tp.file.last_modified_date("YYYY-MM-DD HH:mm:ss") %>
-作者: <% tp.system.prompt("输入月记作者") %>
+创建时间: <% tp.file.creation_date("YYYY-MM-DD HH:mm:ss") %> 
+修改时间: <% tp.file.last_modified_date("YYYY-MM-DD HH:mm:ss") %> 
+作者: <% tp.system.prompt("输入月记作者") %> 
 本月核心关键词: <% tp.system.suggester(["成长","调整","冲刺","休整","突破","迷茫"],["🌱","🔄","🚀","🛋️","💥","❓"],true,'本月核心关键词') %>
-aliases: - 月记-<% tp.date.now("YYYY年MM月") %>
+aliases: :
+  - 月记-<% tp.date.now("YYYY年MM月") %>
 ---
 # 月记 · <% tp.date.now("YYYY年MM月") %>
 ## 一、本月概览
