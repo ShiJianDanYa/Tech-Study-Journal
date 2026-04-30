@@ -81724,6 +81724,33 @@
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
       }
+    },
+    "模板/日记模板/Weekly Notes.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 89,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.2966666666666667,
+      "characterCount": 577,
+      "nonWhitespaceCharacterCount": 496,
+      "newlineCount": 21,
+      "readingTimeInMinutes": 0.22411320754716982,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1777527938484,
+      "modifiedDate": 1777528217487,
+      "sizeInBytes": 715,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
     }
   }
 }

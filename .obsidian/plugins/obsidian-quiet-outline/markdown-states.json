@@ -335,7 +335,7 @@
     "expandedKeys": []
   },
   "Templates/Daily Note.md": {
-    "scroll": 41.722067246763594,
+    "scroll": 2.5293738759233912,
     "cursor": {
       "from": {
         "line": 9,
@@ -371,6 +371,48 @@
       },
       "to": {
         "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "模板/日记模板/未命名.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "模板/日记模板/Weekly Notes.md": {
+    "scroll": 35.75866747647863,
+    "cursor": {
+      "from": {
+        "line": 43,
+        "ch": 0
+      },
+      "to": {
+        "line": 43,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "模板/日记模板/Daily Note.md": {
+    "scroll": 12.699966621840812,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
         "ch": 0
       }
     },
