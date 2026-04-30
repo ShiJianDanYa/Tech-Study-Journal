@@ -393,7 +393,7 @@
     "expandedKeys": []
   },
   "模板/日记模板/Weekly Notes.md": {
-    "scroll": 0,
+    "scroll": 5.168126401316513,
     "cursor": {
       "from": {
         "line": 15,
@@ -437,15 +437,15 @@
     "expandedKeys": []
   },
   "模板/日记模板/Quarterly Notes.md": {
-    "scroll": 4.638538674168041,
+    "scroll": 16.13138195991955,
     "cursor": {
       "from": {
-        "line": 11,
-        "ch": 9
+        "line": 0,
+        "ch": 3
       },
       "to": {
-        "line": 11,
-        "ch": 9
+        "line": 0,
+        "ch": 3
       }
     },
     "expandedKeys": []
@@ -639,7 +639,7 @@
     "expandedKeys": []
   },
   "日记/每月/未命名.md": {
-    "scroll": 9.051221192514301,
+    "scroll": 35.192374100804415,
     "cursor": {
       "from": {
         "line": 15,
@@ -653,14 +653,14 @@
     "expandedKeys": []
   },
   "日记/季度/未命名.md": {
-    "scroll": 0,
+    "scroll": 41.035418390211596,
     "cursor": {
       "from": {
-        "line": 0,
+        "line": 17,
         "ch": 0
       },
       "to": {
-        "line": 0,
+        "line": 17,
         "ch": 0
       }
     },
@@ -681,6 +681,34 @@
     "expandedKeys": []
   },
   "日记/每月/未命名 1.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "模板/日记模板/Qwen_markdown_20260430_rcgdpwlq8.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 3
+      },
+      "to": {
+        "line": 8,
+        "ch": 3
+      }
+    },
+    "expandedKeys": []
+  },
+  "日记/季度/未命名 1.md": {
     "scroll": 0,
     "cursor": {
       "from": {
