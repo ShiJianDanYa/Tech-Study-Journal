@@ -335,15 +335,15 @@
     "expandedKeys": []
   },
   "Templates/Daily Note.md": {
-    "scroll": 7.3079539282969845,
+    "scroll": 4.168126401316513,
     "cursor": {
       "from": {
-        "line": 3,
-        "ch": 2
+        "line": 7,
+        "ch": 7
       },
       "to": {
-        "line": 3,
-        "ch": 2
+        "line": 7,
+        "ch": 7
       }
     },
     "expandedKeys": [
@@ -393,7 +393,7 @@
     "expandedKeys": []
   },
   "模板/日记模板/Weekly Notes.md": {
-    "scroll": 12.016022047760107,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 15,
@@ -423,7 +423,7 @@
     "expandedKeys": []
   },
   "模板/日记模板/Monthly Notes.md": {
-    "scroll": 17.13138195991955,
+    "scroll": 31.088227229932965,
     "cursor": {
       "from": {
         "line": 25,
@@ -437,15 +437,15 @@
     "expandedKeys": []
   },
   "模板/日记模板/Quarterly Notes.md": {
-    "scroll": 5.168126401316513,
+    "scroll": 4.638538674168041,
     "cursor": {
       "from": {
         "line": 11,
-        "ch": 0
+        "ch": 9
       },
       "to": {
         "line": 11,
-        "ch": 0
+        "ch": 9
       }
     },
     "expandedKeys": []
@@ -465,7 +465,7 @@
     "expandedKeys": []
   },
   "模板/日记模板/Yearly Notes.md": {
-    "scroll": 33.90685875551,
+    "scroll": 32.338466539555476,
     "cursor": {
       "from": {
         "line": 36,
