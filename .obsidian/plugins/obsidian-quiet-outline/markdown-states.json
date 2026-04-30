@@ -45,7 +45,7 @@
     ]
   },
   "日记模板/{{title}}.md": {
-    "scroll": 0,
+    "scroll": 14.998998762191448,
     "cursor": {
       "from": {
         "line": 6,
@@ -59,7 +59,7 @@
     "expandedKeys": []
   },
   "日记模板/Daily Note.md": {
-    "scroll": 1.9659862518310547,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 0,
@@ -335,7 +335,7 @@
     "expandedKeys": []
   },
   "Templates/Daily Note.md": {
-    "scroll": 4.553834650013714,
+    "scroll": 41.722067246763594,
     "cursor": {
       "from": {
         "line": 9,
@@ -343,6 +343,34 @@
       },
       "to": {
         "line": 9,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "模板/Daily Note.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "模板/{{title}}.md": {
+    "scroll": 3.7313432835820897,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
         "ch": 0
       }
     },
