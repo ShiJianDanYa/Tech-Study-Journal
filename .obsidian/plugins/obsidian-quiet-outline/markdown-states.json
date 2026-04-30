@@ -393,15 +393,15 @@
     "expandedKeys": []
   },
   "模板/日记模板/Weekly Notes.md": {
-    "scroll": 0,
+    "scroll": 12.346079736478337,
     "cursor": {
       "from": {
-        "line": 18,
-        "ch": 34
+        "line": 0,
+        "ch": 3
       },
       "to": {
-        "line": 18,
-        "ch": 34
+        "line": 0,
+        "ch": 3
       }
     },
     "expandedKeys": [
@@ -526,11 +526,11 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 0,
+        "line": 19,
         "ch": 0
       },
       "to": {
-        "line": 0,
+        "line": 19,
         "ch": 0
       }
     },
@@ -553,7 +553,7 @@
     "expandedKeys": []
   },
   "日记/每日/2026-04-30.md": {
-    "scroll": 30.75944617159102,
+    "scroll": 16.542857142857144,
     "cursor": {
       "from": {
         "line": 18,

@@ -1,3 +1,4 @@
+---
 <%*
 const config = {
   location: "山东省肥城市安驾庄镇",
@@ -8,7 +9,7 @@ const meta = await tp.user.getDiaryMeta(tp, config);
 const weekStart = tp.date.weekday("YYYY-MM-DD", 0);
 const weekEnd = tp.date.weekday("YYYY-MM-DD", 6);
 %>
----
+
 tags:
   - 日记/周记
 title: "周记 · <% weekStart %> ~ <% weekEnd %>"
