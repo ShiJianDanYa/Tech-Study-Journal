@@ -1,24 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "未命名",
-      "path": "日记/每月/未命名.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "日记/季度/未命名.md"
-    },
-    {
-      "basename": "Quarterly Notes",
-      "path": "模板/日记模板/Quarterly Notes.md"
-    },
-    {
       "basename": "Weekly Notes",
       "path": "模板/日记模板/Weekly Notes.md"
-    },
-    {
-      "basename": "Monthly Notes",
-      "path": "模板/日记模板/Monthly Notes.md"
     },
     {
       "basename": "Yearly Notes",
@@ -26,11 +10,27 @@
     },
     {
       "basename": "Daily Note",
-      "path": "模板/日记模板/Daily Note.md"
+      "path": "Templates/Daily Note.md"
     },
     {
       "basename": "Daily Note",
-      "path": "Templates/Daily Note.md"
+      "path": "模板/日记模板/Daily Note.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "日记/季度/未命名.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "日记/每月/未命名.md"
+    },
+    {
+      "basename": "Quarterly Notes",
+      "path": "模板/日记模板/Quarterly Notes.md"
+    },
+    {
+      "basename": "Monthly Notes",
+      "path": "模板/日记模板/Monthly Notes.md"
     },
     {
       "basename": "0a86db3c9fd8aacc2883d8cf89d3775c_MD5",
