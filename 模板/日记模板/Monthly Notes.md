@@ -17,8 +17,13 @@ type:
 创建时间: <% tp.file.creation_date("YYYY-MM-DD HH:mm:ss") %> 
 修改时间: <% tp.file.last_modified_date("YYYY-MM-DD HH:mm:ss") %> 
 作者: <% tp.system.prompt("输入月记作者") %> 
-本月核心关键词: <% tp.system.suggester(["成长","调整","冲刺","休整","突破","迷茫"],["🌱","🔄","🚀","🛋️","💥","❓"],true,'本月核心关键词') %>
-aliases: :
+本月核心关键词: <% tp.system.suggester(
+["成长","调整","冲刺","休整","突破","迷茫"], // 显示选项 
+["🌱","🔄","🚀","🛋️","💥","❓"], // 实际返回值 
+false, // allowFreeInput（是否允许手动输入） 
+"本月核心关键词" // 提示文本 
+) %>
+aliases:
   - 月记-<% tp.date.now("YYYY年MM月") %>
 ---
 # 月记 · <% tp.date.now("YYYY年MM月") %>

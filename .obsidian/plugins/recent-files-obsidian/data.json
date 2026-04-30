@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "未命名",
-      "path": "日记/每周/未命名.md"
+      "basename": "Monthly Notes",
+      "path": "模板/日记模板/Monthly Notes.md"
+    },
+    {
+      "basename": "Weekly Notes",
+      "path": "模板/日记模板/Weekly Notes.md"
+    },
+    {
+      "basename": "Quarterly Notes",
+      "path": "模板/日记模板/Quarterly Notes.md"
+    },
+    {
+      "basename": "Daily Note",
+      "path": "模板/日记模板/Daily Note.md"
+    },
+    {
+      "basename": "周记 · 2026-04-27 ~ 2026-05-03",
+      "path": "日记/每周/周记 · 2026-04-27 ~ 2026-05-03.md"
     },
     {
       "basename": "2026-04-30",
@@ -11,14 +27,6 @@
     {
       "basename": "2024-11-24",
       "path": "日记/2024-11-24.md"
-    },
-    {
-      "basename": "Monthly Notes",
-      "path": "模板/日记模板/Monthly Notes.md"
-    },
-    {
-      "basename": "Weekly Notes",
-      "path": "模板/日记模板/Weekly Notes.md"
     },
     {
       "basename": "Daily Note",
@@ -61,20 +69,12 @@
       "path": "日记/2026-04-29.md"
     },
     {
-      "basename": "Quarterly Notes",
-      "path": "模板/日记模板/Quarterly Notes.md"
-    },
-    {
       "basename": "笔记模板",
       "path": "Templates/笔记模板.md"
     },
     {
       "basename": "煎人寿",
       "path": "个人文件/煎人寿.md"
-    },
-    {
-      "basename": "Daily Note",
-      "path": "模板/日记模板/Daily Note.md"
     },
     {
       "basename": "Yearly Notes",
