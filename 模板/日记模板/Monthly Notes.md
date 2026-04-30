@@ -1,6 +1,9 @@
 ---
 <%*
-const config = {  adcode: "", weather: "" };
+const config = {  
+	adcode: "", 
+	weather: "" 
+};
 const meta = await tp.user.getDiaryMeta(tp, config);
 %>
 tags: - 日记/月记

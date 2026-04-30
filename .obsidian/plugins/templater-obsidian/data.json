@@ -25,6 +25,10 @@
     {
       "folder": "日记/每周",
       "template": "模板/日记模板/Weekly Notes.md"
+    },
+    {
+      "folder": "日记/每月",
+      "template": "模板/日记模板/Monthly Notes.md"
     }
   ],
   "enable_file_templates": false,

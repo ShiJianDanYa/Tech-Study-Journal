@@ -1,8 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-11-24",
+      "path": "日记/2024-11-24.md"
+    },
+    {
+      "basename": "Monthly Notes",
+      "path": "模板/日记模板/Monthly Notes.md"
+    },
+    {
+      "basename": "Daily Note",
+      "path": "Templates/Daily Note.md"
+    },
+    {
+      "basename": "Weekly Notes",
+      "path": "模板/日记模板/Weekly Notes.md"
+    },
+    {
+      "basename": "02_java中的内存管理",
+      "path": "编程开发/02_后端/01_java入门教程/02_java核心语法/01_笔记/05_java原理/02_java中的内存管理.md"
+    },
+    {
       "basename": "java原理目录",
       "path": "编程开发/02_后端/01_java入门教程/02_java核心语法/01_笔记/05_java原理/00_目录总览/java原理目录.md"
+    },
+    {
+      "basename": "插件设想",
+      "path": "编程开发/99_个人💡/插件设想.md"
+    },
+    {
+      "basename": "锏單计划",
+      "path": "个人文件/锏單计划.md"
+    },
+    {
+      "basename": "个人闪念",
+      "path": "个人文件/个人闪念.md"
+    },
+    {
+      "basename": "锏單的奇思妙想",
+      "path": "个人文件/锏單的奇思妙想.md"
     },
     {
       "basename": "2026-04-30",
@@ -13,28 +49,12 @@
       "path": "编程开发/02_后端/01_java入门教程/02_java核心语法/01_笔记/05_java原理/01_java运行机制.md"
     },
     {
-      "basename": "Daily Note",
-      "path": "Templates/Daily Note.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "日记/每周/未命名.md"
-    },
-    {
-      "basename": "Weekly Notes",
-      "path": "模板/日记模板/Weekly Notes.md"
-    },
-    {
       "basename": "2026-04-28",
       "path": "日记/2026-04-28.md"
     },
     {
       "basename": "2026-04-29",
       "path": "日记/2026-04-29.md"
-    },
-    {
-      "basename": "2024-11-24",
-      "path": "日记/2024-11-24.md"
     },
     {
       "basename": "Quarterly Notes",
@@ -57,16 +77,8 @@
       "path": "模板/日记模板/Yearly Notes.md"
     },
     {
-      "basename": "Monthly Notes",
-      "path": "模板/日记模板/Monthly Notes.md"
-    },
-    {
       "basename": "2026-04-27",
       "path": "日记/2026-04-27.md"
-    },
-    {
-      "basename": "02_java中的内存管理",
-      "path": "编程开发/02_后端/01_java入门教程/02_java核心语法/01_笔记/05_java原理/02_java中的内存管理.md"
     }
   ],
   "omittedPaths": [],

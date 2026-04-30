@@ -1,7 +1,12 @@
 ---
 <%*
-const config = { location: adcode: "", weather: "" };
-const meta = await tp.user.getDiaryMeta(tp, config); %>
+const config = { 
+	adcode: "", 
+	weather: "" 
+};
+const meta = await tp.user.getDiaryMeta(tp, config);
+%>
+
 tags: 
   - 日记/周记
 title: "周记 · <% tp.date.weekday("YYYY-MM-DD", 0) %> ~ <% tp.date.weekday("YYYY-MM-DD", 6) %>"
