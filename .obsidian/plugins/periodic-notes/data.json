@@ -1,0 +1,35 @@
+{
+  "showGettingStartedBanner": true,
+  "hasMigratedDailyNoteSettings": true,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "format": "YYYY[年]-MM[月]-dd[日]",
+    "folder": "日记/每日",
+    "template": "Templates/Daily Note",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "",
+    "template": "模板/日记模板/Weekly Notes.md",
+    "folder": "日记/每周",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "YYYY[年]-MM[月]",
+    "template": "模板/日记模板/Monthly Notes.md",
+    "folder": "日记/每月",
+    "enabled": true
+  },
+  "quarterly": {
+    "format": "YYYY-[第]Q[季度]",
+    "template": "模板/日记模板/Quarterly Notes.md",
+    "folder": "日记/季度",
+    "enabled": true
+  },
+  "yearly": {
+    "format": "YYYY",
+    "template": "模板/日记模板/Yearly Notes.md",
+    "folder": "日记/年度",
+    "enabled": true
+  }
+}

@@ -15,6 +15,10 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
+      "folder": "日记/年度",
+      "template": "模板/日记模板/Yearly Notes.md"
+    },
+    {
       "folder": "日记/季度",
       "template": "模板/日记模板/Quarterly Notes.md"
     },
