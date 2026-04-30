@@ -1,6 +1,6 @@
 ---
 <%*
-const config = { location: "山东省肥城市安驾庄镇", adcode: "", weather: "" };
+const config = {  adcode: "", weather: "" };
 const meta = await tp.user.getDiaryMeta(tp, config);
 %>
 tags: - 日记/月记

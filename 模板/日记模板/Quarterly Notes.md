@@ -1,6 +1,6 @@
 ---
 <%*
-const config = { location: adcode: "", weather: "" };
+const config = { adcode: "", weather: "" };
 const meta = await tp.user.getDiaryMeta(tp, config);
 const quarter = Math.ceil((new Date().getMonth() + 1) / 3);
 %>

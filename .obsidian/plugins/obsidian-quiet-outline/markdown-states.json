@@ -335,15 +335,15 @@
     "expandedKeys": []
   },
   "Templates/Daily Note.md": {
-    "scroll": 2.5293738759233912,
+    "scroll": 43.16406644539195,
     "cursor": {
       "from": {
-        "line": 9,
-        "ch": 0
+        "line": 10,
+        "ch": 5
       },
       "to": {
-        "line": 9,
-        "ch": 0
+        "line": 10,
+        "ch": 5
       }
     },
     "expandedKeys": []
@@ -391,29 +391,29 @@
     "expandedKeys": []
   },
   "模板/日记模板/Weekly Notes.md": {
-    "scroll": 18.873403794181215,
+    "scroll": 8.953428624757729,
     "cursor": {
       "from": {
-        "line": 25,
-        "ch": 32
+        "line": 1,
+        "ch": 3
       },
       "to": {
-        "line": 25,
-        "ch": 32
+        "line": 1,
+        "ch": 3
       }
     },
     "expandedKeys": []
   },
   "模板/日记模板/Daily Note.md": {
-    "scroll": 0,
+    "scroll": 12.340312233741306,
     "cursor": {
       "from": {
-        "line": 0,
-        "ch": 0
+        "line": 5,
+        "ch": 2
       },
       "to": {
-        "line": 0,
-        "ch": 0
+        "line": 5,
+        "ch": 2
       }
     },
     "expandedKeys": []
@@ -422,6 +422,20 @@
     "scroll": 0,
     "cursor": {
       "from": {
+        "line": 1,
+        "ch": 3
+      },
+      "to": {
+        "line": 1,
+        "ch": 3
+      }
+    },
+    "expandedKeys": []
+  },
+  "模板/日记模板/Quarterly Notes.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
         "line": 0,
         "ch": 3
       },
@@ -432,16 +446,30 @@
     },
     "expandedKeys": []
   },
-  "模板/日记模板/Quarterly Notes.md": {
-    "scroll": 31.54510826316478,
+  "模板/日记模板/Daily Notes.md": {
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 38,
-        "ch": 13
+        "line": 0,
+        "ch": 0
       },
       "to": {
-        "line": 38,
-        "ch": 13
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "模板/日记模板/Yearly Notes.md": {
+    "scroll": 7.560777513037121,
+    "cursor": {
+      "from": {
+        "line": 19,
+        "ch": 23
+      },
+      "to": {
+        "line": 19,
+        "ch": 23
       }
     },
     "expandedKeys": []
