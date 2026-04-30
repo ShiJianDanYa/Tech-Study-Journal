@@ -3,9 +3,8 @@
 const config = { location: "山东省肥城市安驾庄镇", adcode: "", weather: "" };
 const meta = await tp.user.getDiaryMeta(tp, config); %>
 tags: 
-  - 日记
-  - 周记
-title: <% tp.file.title %>
+  - 日记/周记
+title: "周记 · <% tp.date.weekday("YYYY-MM-DD", 0) %> ~ <% tp.date.weekday("YYYY-MM-DD", 6) %>"
 type: 
   - 日记
   - 周记
