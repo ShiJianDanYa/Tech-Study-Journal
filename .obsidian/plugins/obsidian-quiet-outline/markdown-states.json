@@ -854,7 +854,7 @@
     ]
   },
   "编程开发/02_后端/01_java入门教程/02_java核心语法/01_笔记/06_补充/01_获取随机数.md": {
-    "scroll": 49.589004039764404,
+    "scroll": 48.32131020725766,
     "cursor": {
       "from": {
         "line": 74,
@@ -867,6 +867,52 @@
     },
     "expandedKeys": [
       "item-1-1"
+    ]
+  },
+  "编程开发/04_Ai/01_Python+AI/01_Python启航/01_笔记/初识Python.md": {
+    "scroll": 24.466164335161263,
+    "cursor": {
+      "from": {
+        "line": 31,
+        "ch": 0
+      },
+      "to": {
+        "line": 31,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-2"
+    ]
+  },
+  "编程开发/04_Ai/01_Python+AI/01_Python启航/01_笔记/未命名.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 18,
+        "ch": 23
+      },
+      "to": {
+        "line": 18,
+        "ch": 23
+      }
+    },
+    "expandedKeys": []
+  },
+  "编程开发/04_Ai/01_Python+AI/01_Python启航/01_笔记/02_python环境搭建.md": {
+    "scroll": 10.378528178733077,
+    "cursor": {
+      "from": {
+        "line": 18,
+        "ch": 0
+      },
+      "to": {
+        "line": 18,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-2"
     ]
   }
 }
