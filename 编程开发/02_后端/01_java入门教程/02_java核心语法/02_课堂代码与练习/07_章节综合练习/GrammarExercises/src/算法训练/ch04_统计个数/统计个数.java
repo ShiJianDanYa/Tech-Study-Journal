@@ -23,40 +23,25 @@ public class 统计个数 {
 		要求2:
 		统计弃票数和弃票率是多少？*/
 		Random random = new Random();
-		//存储投票结果
+		//存储投票结果 大量同类型数据
 		int[] vote = new int[6];
 		//开始模拟
 		for (int i = 0; i < 1000; i++) {
 			int index = random.nextInt(0,6);
-			switch ( index){
-				case 0->{
-					//弃权
-					vote[0]++;
-				}
-				case 1->{
-					//给1号投票
-					vote[1]++;
-				}
-				case 2->{
-					//给2号投票
-					vote[2]++;
-				}
-				case 3->{
-					//给3号投票
-					vote[3]++;
-				}
-				case 4->{
-					//给4号投票
-					vote[4]++;
-				}
-				case 5->{
-					//给5号投票
-					vote[5]++;
-				}
-				default -> {
-					System.out.println("程序出错");
-				}
-			}
+			/*switch (index){
+				//使用新写法提高代码可读性
+				case 0->vote[0]++;//弃权
+				case 1->vote[1]++;//给1号投票
+				case 2->vote[2]++;//给2号投票
+				case 3->vote[3]++;//给3号投票
+				case 4->vote[4]++;//给4号投票
+				case 5->vote[5]++;//给5号投票
+				default -> System.out.println("程序出错");
+			}*/
+			//index的含义
+			//1. 投票的数据
+			//2. 同样也是数组的索引
+			vote[index]++;
 		}
 		//调用方法打印得票人和得票律
 		printResult(vote);
