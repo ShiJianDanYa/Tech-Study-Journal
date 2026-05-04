@@ -900,7 +900,7 @@
     "expandedKeys": []
   },
   "编程开发/04_Ai/01_Python+AI/01_Python启航/01_笔记/02_python环境搭建.md": {
-    "scroll": 42.517141402893444,
+    "scroll": 41.89168640812544,
     "cursor": {
       "from": {
         "line": 29,
@@ -930,7 +930,7 @@
     "expandedKeys": []
   },
   "每日时间记录.md": {
-    "scroll": 11.698378739143452,
+    "scroll": 5.1789568251585,
     "cursor": {
       "from": {
         "line": 22,
@@ -942,5 +942,21 @@
       }
     },
     "expandedKeys": []
+  },
+  "日记/每日/2026年-05月-04日.md": {
+    "scroll": 20,
+    "cursor": {
+      "from": {
+        "line": 30,
+        "ch": 21
+      },
+      "to": {
+        "line": 30,
+        "ch": 21
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ]
   }
 }
