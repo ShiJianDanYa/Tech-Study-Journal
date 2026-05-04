@@ -23,15 +23,54 @@ public class 中位数 {
 		int[] arr1 = new int[] {1,3,5,7,9};
 		int[] arr2 = {2,4,6};
 		//合并方法
-		merge(arr1,arr2);
+		int[] arr3 = merge(arr1,arr2);
+		//打印数组
+		traverseTheArray(arr3);
+		//求中位数
 
 
 	}
 	public static int[] merge(int[] arr1,int[] arr2){
 		//创建新数组,用来存储两个数组的数据
 		int[] arr3 = new int[arr1.length+arr2.length];
+		//创建三指针
+		int pointer1 = 0,pointer2 = 0,pointer3 = 0;
 		//循环遍历数组
+		while(pointer1 == arr1.length && pointer2 == arr2.length){
+			if(arr1[pointer1]>arr2[pointer2]){
+				arr3[pointer3] = arr2[pointer2];
+				pointer3++;
+				pointer2++;
+			} else if (arr1[pointer1]<arr2[pointer2]) {
+				arr3[pointer3]= arr1[pointer1];
+				pointer3++;
+				pointer1++;
+			} else if (arr1[pointer1]==arr2[pointer2]) {
+				arr3[pointer3]= arr1[pointer1];
+				pointer3++;
+				pointer1++;
+				arr3[pointer3]= arr2[pointer2];
+				pointer3++;
+				pointer2++;
+			} else if (pointer1 >= arr1.length && pointer2< arr2.length) {
+				arr3[pointer3]= arr2[pointer2];
+				pointer3++;
+				pointer2++;
+			} else if (pointer2>=arr2.length && pointer1< arr1.length) {
+				arr3[pointer3]= arr1[pointer1];
+				pointer3++;
+				pointer1++;
+			}else {
+				System.out.println("程序出错");
+			}
+		}
+		//返回数组
+		return arr3;
+	}
 
-
+	public static void traverseTheArray(int[] arr){
+		for (int i = 0; i < arr.length; i++) {
+			System.out.println(arr[i]);
+		}
 	}
 }
