@@ -1,6 +1,5 @@
 package 算法训练.ch04_统计个数;
 //导包
-import java.sql.SQLOutput;
 import java.util.Random;
 
 /**
