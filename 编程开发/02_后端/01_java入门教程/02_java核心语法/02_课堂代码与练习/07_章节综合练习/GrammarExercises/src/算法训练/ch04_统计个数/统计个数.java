@@ -48,7 +48,11 @@ public class 统计个数 {
 		//调用方法，统计得票最多的候选人
 		int theHighest = printMax(vote);
 		//输出
-		System.out.println("得票最多的候选人是"+theHighest);
+		for (int i = 1; i < vote.length; i++) {
+			if(vote[i] == theHighest){
+				System.out.println("得票的最高候选人是"+i+"他的得票数是"+theHighest);
+			}
+		}
 	}
 	//打印结果
 	public static void printResult(int[] vote){
@@ -69,9 +73,9 @@ public class 统计个数 {
 		for (int i = 2; i < vote.length; i++) {
 			if(max<vote[i]){
 				max = vote[i];
-				candidate = i;
 			}
 		}
-		return candidate;
+		return max;
+
 	}
 }
