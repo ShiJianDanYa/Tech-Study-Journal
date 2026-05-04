@@ -21,7 +21,7 @@ public class 中位数 {
 		*/
 		//定义两个数组
 		int[] arr1 = new int[] {1,3,5,7,9};
-		int[] arr2 = {2,4,6};
+		int[] arr2 = {2,4,5,6};
 		//合并方法
 		int[] arr3 = merge(arr1,arr2);
 		//打印数组
@@ -49,32 +49,20 @@ public class 中位数 {
 		//创建三指针
 		int pointer1 = 0,pointer2 = 0,pointer3 = 0;
 		//循环遍历数组
+		//while循环  是 循环条件为true就继续循环
 		while(pointer1 < arr1.length || pointer2 < arr2.length){
+			//if 如果范围有重复部分那就是范围大的写在前面,范围小的写在后面
 			if(pointer1 >= arr1.length && pointer2< arr2.length) {
-				arr3[pointer3] = arr2[pointer2];
-				pointer3++;
-				pointer2++;
+				arr3[pointer3++] = arr2[pointer2++];
 			}else if (pointer2 >= arr2.length && pointer1< arr1.length) {
-				arr3[pointer3] = arr1[pointer1];
-				pointer3++;
-				pointer1++;
+				arr3[pointer3++] = arr1[pointer1++];
 			} else if (arr1[pointer1]>arr2[pointer2]){
-				arr3[pointer3] = arr2[pointer2];
-				pointer3++;
-				pointer2++;
+				arr3[pointer3++] = arr2[pointer2++];
 			} else if (arr1[pointer1]<arr2[pointer2]) {
-				arr3[pointer3]= arr1[pointer1];
-				pointer3++;
-				pointer1++;
+				arr3[pointer3++]= arr1[pointer1++];
 			} else if (arr1[pointer1]==arr2[pointer2]) {
-				arr3[pointer3]= arr1[pointer1];
-				pointer3++;
-				pointer1++;
-				arr3[pointer3]= arr2[pointer2];
-				pointer3++;
+				arr3[pointer3++]= arr1[pointer1++];
 				pointer2++;
-			} else {
-				System.out.println("程序出错");
 			}
 		}
 		//返回数组
