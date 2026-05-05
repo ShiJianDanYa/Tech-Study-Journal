@@ -16,18 +16,57 @@ public class 接雨水 {
 		计算按此排列的柱子，下雨之后能接多少雨水
 		输入：height = [0,1,0,2,1,0,1,3,2,1,2,1]
 		输出：6
-
-		思路 判断 指针移动 只有左右都有柱子时，才会留住雨水
-		结束条件 当左右指针 超出 数组 时 结束
-
 		*/
 
 		//先创建数组
 		int[] height = {0,1,0,2,1,0,1,3,2,1,2,1};
+		//定义第三方变量记录最高的柱子高度
+		int max = 0;
+		//遍历数组 记录雨水和柱子的总和
+		//从左到右遍历
+		//创建数组存储数据
+		int[] leftMax = new int[height.length];
+		//开始遍历
+		for (int i = 0; i < height.length; i++) {
+			//判断当前柱子高度是否比最大柱子高度高
+			if(height[i]>max){
+				max = height[i];
+			}
+			//存储柱子加雨水的总量
+			leftMax[i] = max;
+		}
+		//从右到左遍历
+		 max = 0;
+		//创建数组存储数据
+		 int[] rightMax = new int[height.length];
+		 //开始遍历
+		for (int i = height.length-1; i >=0; i--) {
+			//判断当前柱子高度是否比最大柱子高度高
+			if(height[i]>max){
+				max = height[i];
+			}
+			//存储柱子加雨水的总量
+			rightMax[i] = max;
+		}
+		//开始取交集 两者中最小的部分
+		int sum = 0;
+		for (int i = 0; i < height.length; i++) {
+			if(leftMax[i]>rightMax[i]){
+				sum += rightMax[i];
+			} else
+				sum += leftMax[i];
 
 		}
+		//交集是雨水加柱子的总和
+		System.out.println(sum);
+		//只要减去柱子就是水的面积
+		//柱子面积
+		int barSum = 0;
+		for (int i = 0; i < height.length; i++) {
+			barSum += height[i];
+		}
+		System.out.println("柱子面积是"+barSum);
+		System.out.println("能借得雨水数量是"+(sum-barSum));
 
-
-
-
+		}
 	}
