@@ -54,6 +54,7 @@ public class 大乐透 {
 		arr = inputLotteryNumber(arr,12,5,6);
 		traverseTheArray(arr);
 		//3.调用方法中奖判断
+		winningMethod(arr,front,back);
 
 
 	}
@@ -122,10 +123,21 @@ public class 大乐透 {
 	//中奖判断方法
 	public static void winningMethod(int[] arr,int[] arr1,int[] arr2){
 		//调用判断两个数组重复次数 方法
+		int count1 = judgeRepetition(arr,arr1,0,4);
+		int count2 = judgeRepetition(arr,arr2,5,6);
+		//开始判断
+		if(count1 == 5 && (count2 == 2 || count2 == 1))
 	}
 	//判断两个数组重复次数
+	//arr1 数组1  arr2 数组2  start~end 区间
 	public static int judgeRepetition(int[] arr1,int[] arr2,int start,int end){
-
+		int count = 0;
+		for (int i = start; i < end; i++){
+			if(arr1[i] == arr2[i]){
+				count++;
+			}
+		}
+        return count;
 	}
 
 }
