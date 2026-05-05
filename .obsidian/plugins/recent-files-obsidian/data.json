@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "2026年-05月-05日",
-      "path": "日记/每日/2026年-05月-05日.md"
+      "basename": "Daily Note",
+      "path": "Templates/Daily Note.md"
     },
     {
       "basename": "每日时间记录",
       "path": "每日时间记录/每日时间记录.md"
+    },
+    {
+      "basename": "2026年-05月-05日",
+      "path": "日记/每日/2026年-05月-05日.md"
     },
     {
       "basename": "接雨水思路分析",
@@ -71,10 +75,6 @@
     {
       "basename": "Yearly Notes",
       "path": "模板/日记模板/Yearly Notes.md"
-    },
-    {
-      "basename": "Daily Note",
-      "path": "Templates/Daily Note.md"
     },
     {
       "basename": "Daily Note",
