@@ -13,7 +13,7 @@ import java.util.Scanner;
  * @Version: v1.0
  *
  */
-public class 大乐透 {
+public class SuperLotto {
 	public static void main(String[] args){
 		/*彩票规则：
 		前区：1~35选5个号码（唯一）
@@ -28,7 +28,6 @@ public class 大乐透 {
 			五等奖：4 + 0 / 3 + 1 / 2 + 2
 			六等奖：3 + 0 / 1 + 2 / 2 + 1 / 0 + 2
 			*/
-
 		//分三部分
 		//1.彩票
 		//前区
@@ -55,8 +54,6 @@ public class 大乐透 {
 		traverseTheArray(arr);
 		//3.调用方法中奖判断
 		winningMethod(arr,front,back);
-
-
 	}
 	//判断是否有重复  重复输出false 不重复输出true  start~end 指定重复区间
 	public static boolean deduplicationMethod(int[] arr ,int a,int start,int end){
@@ -143,7 +140,6 @@ public class 大乐透 {
 		}
 		}
 
-	}
 	//判断两个数组重复次数
 	//arr1 数组1  arr2 数组2  start~end 区间
 	public static int judgeRepetition(int[] arr1,int[] arr2,int start,int end){
@@ -154,5 +150,9 @@ public class 大乐透 {
 			}
 			j++;
 		}
-        return count;
+		return count;
 	}
+
+	}
+
+
