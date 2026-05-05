@@ -29,10 +29,23 @@ public class 接雨水 {
 		//开始遍历
 		for (int i = 0; i < height.length; i++) {
 			//判断当前柱子高度是否比最大柱子高度高
-			if(height[i]>max){
+			/*
+			老师的解法
+			if(max>height[i]){//当前柱子小于最高柱子高度
+			//存储柱子取最高柱子
+				leftMax[i] = max;
+			}else{//当前柱子比最大柱子高或相等
+			//存储柱子 取当前柱子高度
+				leftMax[i] = height[i];
+			//最高柱子更新
 				max = height[i];
 			}
-			//存储柱子加雨水的总量
+			*/
+			if(height[i]>max){ //当前柱子大于最高柱子高度
+				//最高柱子更新
+				max = height[i];
+			}
+			//存储柱子取最高柱子
 			leftMax[i] = max;
 		}
 		//从右到左遍历
@@ -66,7 +79,7 @@ public class 接雨水 {
 			barSum += height[i];
 		}
 		System.out.println("柱子面积是"+barSum);
-		System.out.println("能借得雨水数量是"+(sum-barSum));
+		System.out.println("雨水数量是"+(sum-barSum));
 
 		}
 	}
