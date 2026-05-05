@@ -36,22 +36,30 @@ public class 大乐透 {
 		//后区
 		int[] back = new int[2];
 		//调用方法去重 并打印
-
 		front = lotteryTicketDeduplication(front,1,35);
 		traverseTheArray(front);
-		//分割线
+		//换行
 		System.out.println();
 		back = lotteryTicketDeduplication(back,1,12);
 		traverseTheArray(back);
+		//换行
+		System.out.println();
 		//2.用户输入彩票号码
-		System.out.println("请输入你的彩票号码 7 位");
+		//定义数组 7位
+		int[] arr = new int[7];
+		//调用方法 输入彩票号码上区
+		arr = inputLotteryNumber(arr,35,0,4);
+		traverseTheArray(arr);
+		//调用方法 输入彩票号码下区
+		arr = inputLotteryNumber(arr,12,5,6);
+		traverseTheArray(arr);
+		//3.调用方法中奖判断
 
 
-		//3.中奖判断
 	}
-	//判断是否有重复  重复输出false 不重复输出true
-	public static boolean deduplicationMethod(int[] arr ,int a){
-		for(int i = 0; i < arr.length; i++){
+	//判断是否有重复  重复输出false 不重复输出true  start~end 指定重复区间
+	public static boolean deduplicationMethod(int[] arr ,int a,int start,int end){
+		for(int i = start; i < end; i++){
 			if(arr[i] == a){
 				return false;
 			}
@@ -70,7 +78,7 @@ public class 大乐透 {
 			 int num = rd.nextInt(a,b);
 			 //定义变量判断是否重复
 			 boolean flag = true;
-			flag = deduplicationMethod(newArr,num);
+			flag = deduplicationMethod(newArr,num,0,i);
 			 if(flag){ //只有不重复
 				 //添加i 自加
 				 newArr[i] = num;
@@ -87,12 +95,37 @@ public class 大乐透 {
 		}
 	}
 	//用户输入方法
-	/*public static int[] inputLotteryNumber(){
-		//定义数组 7位
-		int[] arr = new int[7];
+	//arr 被添加数组   a随机范围 默认从1开始  b c添加号码的范围
+	public static int[] inputLotteryNumber(int[]  arr ,int a,int b,int c){
+		Scanner sc = new Scanner(System.in);
+		//分为两部分
+		int i = b;
+		do{
+			System.out.println("请输入第"+(i+1)+"位号码");
+			int d = sc.nextInt();
+			if(d>=1&&d<=a){
+				Boolean flag =deduplicationMethod(arr,d,b,c);
+				if(flag){
+					arr[i] = d;
+					i++;
+				}else {
+					System.out.println("输入的号码有重复，请重新输入 范围限制为1~"+a+"的"+(c+1)+"个号码");
+				}
+			}else {
+				System.out.println("输入的号码有误，请重新输入 范围限制为1~"+a+"的"+(b+1)+"个号码");
+			}
+		}while(i<=c);
+		//返回
+		return arr;
+	}
 
+	//中奖判断方法
+	public static void winningMethod(int[] arr,int[] arr1,int[] arr2){
+		//调用判断两个数组重复次数 方法
+	}
+	//判断两个数组重复次数
+	public static int judgeRepetition(int[] arr1,int[] arr2,int start,int end){
 
-	}*/
-
+	}
 
 }
