@@ -36,11 +36,12 @@ public class 大乐透 {
 		//后区
 		int[] back = new int[2];
 		//调用方法去重 并打印
-		front = CreateLotteryNumber(front,1,35);
+
+		front = lotteryTicketDeduplication(front,1,35);
 		traverseTheArray(front);
 		//分割线
 		System.out.println();
-		back = CreateLotteryNumber(back,1,12);
+		back = lotteryTicketDeduplication(back,1,12);
 		traverseTheArray(back);
 		//2.用户输入彩票号码
 		System.out.println("请输入你的彩票号码 7 位");
@@ -48,8 +49,17 @@ public class 大乐透 {
 
 		//3.中奖判断
 	}
-	//去重方法
-	public static int[] CreateLotteryNumber(int[] arr,int a,int b){
+	//判断是否有重复  重复输出false 不重复输出true
+	public static boolean deduplicationMethod(int[] arr ,int a){
+		for(int i = 0; i < arr.length; i++){
+			if(arr[i] == a){
+				return false;
+			}
+		}
+		return true;
+	}
+	//彩票去重方法
+	public static int[] lotteryTicketDeduplication(int[] arr,int a,int b){
 		Random rd = new Random();
 		int[] newArr = new int[arr.length];
 		//循环遍历添加数组元素(不重复)
@@ -60,12 +70,7 @@ public class 大乐透 {
 			 int num = rd.nextInt(a,b);
 			 //定义变量判断是否重复
 			 boolean flag = true;
-			 for (j = 0; j < i; j++) {
-				 if(arr[j] == num){ //重复
-					 flag = false;
-					 break;
-				 }
-			 }
+			flag = deduplicationMethod(newArr,num);
 			 if(flag){ //只有不重复
 				 //添加i 自加
 				 newArr[i] = num;
@@ -82,12 +87,12 @@ public class 大乐透 {
 		}
 	}
 	//用户输入方法
-	public static int[] inputLotteryNumber(){
+	/*public static int[] inputLotteryNumber(){
 		//定义数组 7位
 		int[] arr = new int[7];
-		
 
-	}
+
+	}*/
 
 
 }
