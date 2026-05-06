@@ -338,15 +338,15 @@
     "expandedKeys": []
   },
   "Templates/Daily Note.md": {
-    "scroll": 30.25035815845488,
+    "scroll": 36.20744125212096,
     "cursor": {
       "from": {
-        "line": 37,
-        "ch": 4
+        "line": 45,
+        "ch": 0
       },
       "to": {
-        "line": 37,
-        "ch": 4
+        "line": 45,
+        "ch": 0
       }
     },
     "expandedKeys": [
@@ -1044,15 +1044,15 @@
     "expandedKeys": []
   },
   "日记/每日/2026年-05月-06日.md": {
-    "scroll": 65.96367887997816,
+    "scroll": 32.50088868312102,
     "cursor": {
       "from": {
-        "line": 49,
-        "ch": 43
+        "line": 57,
+        "ch": 23
       },
       "to": {
-        "line": 49,
-        "ch": 43
+        "line": 57,
+        "ch": 23
       }
     },
     "expandedKeys": [
@@ -1203,7 +1203,7 @@
     "expandedKeys": []
   },
   "编程开发/02_后端/01_java入门教程/02_java核心语法/01_笔记/01_基础语法/00_java基础语法目录.md": {
-    "scroll": 35.25185556439765,
+    "scroll": 34.80947489197766,
     "cursor": {
       "from": {
         "line": 47,
@@ -1268,7 +1268,7 @@
     ]
   },
   "编程开发/02_后端/01_java入门教程/02_java核心语法/01_笔记/01_基础语法/04_java字面量.md": {
-    "scroll": 1.361617484391427,
+    "scroll": 8.902220617590814,
     "cursor": {
       "from": {
         "line": 0,
