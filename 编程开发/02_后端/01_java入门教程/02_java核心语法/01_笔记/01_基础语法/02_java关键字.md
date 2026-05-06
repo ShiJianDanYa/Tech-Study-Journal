@@ -10,7 +10,8 @@ date: 2026-02-11
 banner: "![[pixel-banner-images/冰雪2b (6).jpg]]"
 banner-height: 960
 ---
-
+## 知识体系
+![[关键字.png]]
 ## 1— 需要解决问题
 java中有些命名存在冲突问题。
 ## 2— 本质 意义 解决方法

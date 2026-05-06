@@ -18,7 +18,7 @@ banner-height: 710
 表示定义一个类。创建一个类。
 类：Java 项目<font color="#ff0000">最基本</font>的<font color="#ff0000">组成单元</font>，一个完整的Java 项目有可能会有成千上万个类来组成的。
 class后面跟随的就是这个类的名字，简称：类名。在类名后面会有一对大括号，表示这个类的内容。
-### 2.2— 列子
+### 2.2— 🌰
 ```java
 public class HelloWorld{
 
