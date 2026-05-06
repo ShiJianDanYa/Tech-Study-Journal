@@ -12,12 +12,13 @@ banner-height: 1260
 ---
 
 ## 1— 需要解决问题
-在java中，输出信息
+如何用 java ,输出信息
 ## 2— 本质 意义 解决方法
 ### 2.1— 步骤
 1. 编写
-2. 编译  <font color="#ff0000">javac 文件名.java</font> (会产生 <font color="#ff0000">同名.class 文件</font>)
-3. 运行  <font color="#ff0000">java 文件名</font>（注意这里<font color="#ff0000">不需要后缀</font>）
+2. 编译  `javac 文件名.java` (会产生 `同名.class 文件`)
+3. 运行  `java 文件名`（注意这里 `不需要后缀`）
+
 截图
 ![[HelloWorld_2026-03-30_22-58-09.png]]
 

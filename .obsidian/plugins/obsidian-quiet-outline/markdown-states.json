@@ -1044,29 +1044,31 @@
     "expandedKeys": []
   },
   "日记/每日/2026年-05月-06日.md": {
-    "scroll": 43.57450018951935,
+    "scroll": 65.96367887997816,
     "cursor": {
       "from": {
-        "line": 46,
-        "ch": 0
+        "line": 49,
+        "ch": 43
       },
       "to": {
-        "line": 46,
-        "ch": 0
+        "line": 49,
+        "ch": 43
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-1-0"
+    ]
   },
   "编程开发/02_后端/01_java入门教程/01_初识java/01_学习笔记/00_初识java目录.md": {
-    "scroll": 35.95341429458759,
+    "scroll": 39.9278531762141,
     "cursor": {
       "from": {
-        "line": 50,
-        "ch": 37
+        "line": 52,
+        "ch": 22
       },
       "to": {
-        "line": 36,
-        "ch": 0
+        "line": 52,
+        "ch": 22
       }
     },
     "expandedKeys": [
@@ -1155,17 +1157,35 @@
     ]
   },
   "编程开发/02_后端/01_java入门教程/01_初识java/01_学习笔记/06_idea安装.md": {
-    "scroll": 0,
+    "scroll": 59.520034417873475,
     "cursor": {
       "from": {
-        "line": 0,
-        "ch": 0
+        "line": 75,
+        "ch": 5
       },
       "to": {
-        "line": 0,
-        "ch": 0
+        "line": 75,
+        "ch": 5
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-1-2"
+    ]
+  },
+  "编程开发/02_后端/01_java入门教程/01_初识java/01_学习笔记/07_HelloWorld.md": {
+    "scroll": 50.4343115963153,
+    "cursor": {
+      "from": {
+        "line": 14,
+        "ch": 14
+      },
+      "to": {
+        "line": 14,
+        "ch": 14
+      }
+    },
+    "expandedKeys": [
+      "item-2-1"
+    ]
   }
 }
