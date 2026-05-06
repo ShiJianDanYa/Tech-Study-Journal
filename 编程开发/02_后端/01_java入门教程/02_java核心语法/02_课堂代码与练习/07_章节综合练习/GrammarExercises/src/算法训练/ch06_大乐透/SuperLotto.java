@@ -101,7 +101,19 @@ public class SuperLotto {
 		do{
 			System.out.println("请输入第"+(i+1)+"位号码");
 			int d = sc.nextInt();
-			if(d>=1&&d<=a){
+			//注意为了方便阅读 优先判断异常数据 在处理合规数据
+			if(d<1||d>a){
+				System.out.println("输入的号码有误，请重新输入 范围限制为1~"+a+"的"+(b+1)+"个号码");
+				continue;
+			}
+			Boolean flag =deduplicationMethod(arr,d,b,c);
+			if(!flag){
+				System.out.println("输入的号码有重复，请重新输入 范围限制为1~"+a+"的"+(c+1)+"个号码");
+				continue;
+			}
+			arr[i] = d;
+			i++;
+			/*if(d>=1&&d<=a){
 				Boolean flag =deduplicationMethod(arr,d,b,c);
 				if(flag){
 					arr[i] = d;
@@ -111,7 +123,7 @@ public class SuperLotto {
 				}
 			}else {
 				System.out.println("输入的号码有误，请重新输入 范围限制为1~"+a+"的"+(b+1)+"个号码");
-			}
+			}*/
 		}while(i<=c);
 		//返回
 		return arr;
