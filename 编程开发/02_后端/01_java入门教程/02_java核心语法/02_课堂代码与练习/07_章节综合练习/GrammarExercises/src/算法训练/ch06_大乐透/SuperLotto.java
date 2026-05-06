@@ -141,7 +141,7 @@ public class SuperLotto {
 			System.out.println("恭喜，中奖了一等奖");
 		}else if(count1 == 5 && count2 == 1){
 			System.out.println("恭喜，中奖了二等奖");
-		} else if ((count1 ==0 && count2 == 0)||(count1 == 4 && count2==2) ) {
+		} else if ((count1 ==5 && count2 == 0)||(count1 == 4 && count2==2) ) {
 			System.out.println("恭喜，中奖了三等奖");
 		} else if((count1 == 4 && count2 == 1)||(count1 == 3 && count2 == 2)){
 			System.out.println("恭喜，中奖了四等奖");
@@ -156,12 +156,29 @@ public class SuperLotto {
 	//arr1 数组1  arr2 数组2  start~end 区间
 	public static int judgeRepetition(int[] arr1,int[] arr2,int start,int end){
 		int count = 0, j = 0;
-		for (int i = start; i < end; i++){
+		/*for (int i = start; i < end; i++){
+			*//*//位置和数据相同就加一
 			if(arr1[i] == arr2[j]){
 				count++;
 			}
-			j++;
-		}
+			j++
+			*//*
+			//这个是只要有数据相同就加1,无论位置如何
+			for(j=0;j< arr2.length;j++){
+				if(arr1[i] == arr2[j]){
+					count++;
+				}
+			}
+		}*/
+		//定义变量
+		boolean flat;
+			for(j=0;j< arr2.length;j++){
+				flat = deduplicationMethod(arr1,arr2[j],start,end);
+				if (!flat){
+					count++;
+				}
+			}
+
 		return count;
 	}
 	}
