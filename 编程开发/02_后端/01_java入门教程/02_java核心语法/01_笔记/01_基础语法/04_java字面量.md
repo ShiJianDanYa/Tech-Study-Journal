@@ -10,7 +10,7 @@ date: 2026-02-11
 banner: "![[pixel-banner-images/冰雪2b (9).jpg]]"
 banner-height: 530
 ---
-![[03_字面量.png]]
+![[06_字面量.png]]
 
 ## 1— 需要解决问题
 数据在程序中应该以怎样的格式书写?
