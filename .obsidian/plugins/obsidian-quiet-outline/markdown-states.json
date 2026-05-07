@@ -1312,17 +1312,20 @@
     "expandedKeys": []
   },
   "编程开发/02_后端/01_java入门教程/02_java核心语法/01_笔记/01_基础语法/06_java变量.md": {
-    "scroll": 36.02204418182373,
+    "scroll": 94.90813672043815,
     "cursor": {
       "from": {
-        "line": 18,
-        "ch": 34
+        "line": 54,
+        "ch": 16
       },
       "to": {
-        "line": 18,
-        "ch": 34
+        "line": 54,
+        "ch": 16
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-2-1",
+      "item-3-3"
+    ]
   }
 }
