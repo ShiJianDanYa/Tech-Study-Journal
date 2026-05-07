@@ -112,24 +112,32 @@ package ch06变量.课堂代码;
  * * @Author:锏澹  
  * @Create: 2026/4/15 - 16:43  
  * @Version: v1.0  
- * */public class MattersNeedAttention {  
+ * */public class ch03_MattersNeedAttention {  
     static void main(String[] args) {  
        //变量的注意事项  
-       //在一条语句中，可以定义多个变量  
+       //1.变量同时只能有一个值  
+       //int p = 10, 20;  
+       //2.变量名不允许重复  
+       int q = 100;  
+       //int q = 200;  
+       //3.在一条语句中，可以定义多个变量  
        int d = 100, e = 200, f = 300;  
        System.out.println(d);  
        System.out.println(e);  
        System.out.println(f);  
-       //变量在使用之前一定要进行赋值  
+       //4.变量在使用之前一定要进行赋值  
        int x;  
-        /*System.out.println(x);  
-        建议：定义变量时，直接进行赋值  
-         */    }  
+        //System.out.println(x);  
+        //建议：定义变量时，直接进行赋值  
+       //5.变量的作用域范围,只属于当前{}  
+       {  
+          int m = 100;  
+       }  
+       //System.out.println(m);  
+    }  
 }
 ```
 
-运行代码
-![[运行结果_2026-04-15_16-56-05.png]]
 ## 4— 知识扩展
 变量名不允许重复定义
 <font color="#ff0000">不同类型也一样</font>
