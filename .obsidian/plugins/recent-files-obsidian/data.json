@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "11_idea",
-      "path": "编程开发/02_后端/01_java入门教程/02_java核心语法/01_笔记/01_基础语法/11_idea.md"
+      "basename": "12_运算符",
+      "path": "编程开发/02_后端/01_java入门教程/02_java核心语法/01_笔记/01_基础语法/12_运算符.md"
     },
     {
       "basename": "00_java基础语法目录",
       "path": "编程开发/02_后端/01_java入门教程/02_java核心语法/01_笔记/01_基础语法/00_java基础语法目录.md"
+    },
+    {
+      "basename": "11_idea",
+      "path": "编程开发/02_后端/01_java入门教程/02_java核心语法/01_笔记/01_基础语法/11_idea.md"
     },
     {
       "basename": "10_键盘输入",
@@ -195,10 +199,6 @@
     {
       "basename": "锏單的奇思妙想",
       "path": "个人文件/锏單的奇思妙想.md"
-    },
-    {
-      "basename": "01_java运行机制",
-      "path": "编程开发/02_后端/01_java入门教程/02_java核心语法/01_笔记/05_java原理/01_java运行机制.md"
     }
   ],
   "omittedPaths": [],
