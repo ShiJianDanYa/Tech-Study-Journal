@@ -28,7 +28,7 @@ Java是一门非常火的计算机语言。（也叫做编程语言）​
 
 >[!NOTE]  助记 司马58同城
 >6. <font color="#ff5c00">2004 java5 java第一个大版本更新</font>
->7. <font color="#ff5c00">2014 Java8 绝大公司使用</font>
+>7. <font color="#ff5c00">2014 Java8 绝大部分公司使用</font>
 
 ### 0.3— java版本区别
 >[!NOTE]  助记 助记 🐍是基础 上面有♣️小型 🪿企业
